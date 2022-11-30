@@ -1,7 +1,7 @@
 ## Oi, Sou Daniel!👋
 
 - 🌱 I’m currently learning ... Atualmente estou aprendendo!
-- 📫 How to reach me: danielheringers@icloud.com / Cel: +55 (33) 99153-1299 (Whatsapp)
+- 📫 How to reach me: danielheringers@gmail.com / Cel: +55 (33) 99153-1299 (Whatsapp)
 
   ## Learning / Aprendendo
   
