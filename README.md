@@ -1,9 +1,8 @@
 ## Oi, Sou Daniel!👋
 
-- 🌱 I’m currently learning ... Atualmente estou aprendendo!
 - 📫 How to reach me: danielheringers@gmail.com / Cel: +55 (33) 99153-1299 (Whatsapp)
 
-  ## Learning / Aprendendo
+  ## Techs
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
