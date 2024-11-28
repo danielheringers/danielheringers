@@ -61,14 +61,8 @@ $ whoami
 <div align="center">
 
 📟 **LinkedIn:** [Conecte-se comigo](https://www.linkedin.com/in/daniel)  
-📡 **Portfolio:** [Entre no Mainframe](https://daniel.glitch.me)  
-📧 **Email:** daniel@cybermail.com  
+📡 **GlitchMe:** [Entre no Mainframe]((33) 991531299)  
+📧 **Email:** danielsheringer@icloud.com  
 
 </div>
 
-<div align="center">
-
-"Não é um ataque, é apenas um showcase."
-**Daniel**
-
-</div>
