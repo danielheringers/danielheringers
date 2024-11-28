@@ -61,7 +61,7 @@ $ whoami
 <div align="center">
 
 📟 **LinkedIn:** [Conecte-se comigo](https://www.linkedin.com/in/daniel)  
-📡 **Wpp:** (33) 991531299
+📡 **Wpp:** .(33) 991531299
 📧 **Email:** danielsheringer@icloud.com  
 
 </div>
