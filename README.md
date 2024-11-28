@@ -23,9 +23,9 @@
 > TARGET ACQUIRED: github.com
 ```
 <div align="center">
-<img src="start.gif" alt="Hacker Booting" height="200">
-<img src="inprogress.gif" alt="Hacker InProgress" height="200">
-<img src="youareminenow.gif" alt="Hacker YouAreMineNow" height="200">
+<img src="start.gif" alt="Hacker Booting" height="180">
+<img src="inprogress.gif" alt="Hacker InProgress" height="180">
+<img src="youareminenow.gif" alt="Hacker YouAreMineNow" height="180">
 </div>
 
 ```bash
