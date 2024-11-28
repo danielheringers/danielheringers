@@ -13,6 +13,11 @@
   <img align="center" alt="Daniel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </div>
   
+  <p align="center"> 
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/danielheringers/count.svg" />
+  </p>
+  
   ## Contact / Contato
   
   <div>
