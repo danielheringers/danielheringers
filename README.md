@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ HACKER TERMINAL ⚡
+# ⚡ TERMINAL ⚡
 
 </div>
 
