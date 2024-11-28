@@ -4,7 +4,7 @@
 
 </div>
 
----
+
 
 ```plaintext
 > Sistema em inicialização...
