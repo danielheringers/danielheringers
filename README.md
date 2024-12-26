@@ -10,24 +10,11 @@
 > Sistema em inicialização...
 > [██████             ] 30%
 > INTERFACE FOUNDING...
-
- __   __     ______     __  __     ______     ______     __    __     ______     __   __     ______     ______     ______    
-/\ "-.\ \   /\  ___\   /\ \/\ \   /\  == \   /\  __ \   /\ "-./  \   /\  __ \   /\ "-.\ \   /\  ___\   /\  ___\   /\  == \   
-\ \ \-.  \  \ \  __\   \ \ \_\ \  \ \  __<   \ \ \/\ \  \ \ \-./\ \  \ \  __ \  \ \ \-.  \  \ \ \____  \ \  __\   \ \  __<   
- \ \_\\"\_\  \ \_____\  \ \_____\  \ \_\ \_\  \ \_____\  \ \_\ \ \_\  \ \_\ \_\  \ \_\\"\_\  \ \_____\  \ \_____\  \ \_\ \_\ 
-  \/_/ \/_/   \/_____/   \/_____/   \/_/ /_/   \/_____/   \/_/  \/_/   \/_/\/_/   \/_/ \/_/   \/_____/   \/_____/   \/_/ /_/ 
-
 > INITIATING HACKER INTERFACE...
 > ESTABLISHING CONNECTIONS...
 > [███████████████████] 100%
 > TARGET ACQUIRED: github.com
 ```
-<div align="center">
-<img src="start.gif" alt="Hacker Booting" height="165">
-<img src="inprogress.gif" alt="Hacker InProgress" height="165">
-<img src="youareminenow.gif" alt="Hacker YouAreMineNow" height="165">
-</div>
-
 ```bash
 $ connect --target https://github.com/daniel
 > CONNECTION ESTABLISHED...
