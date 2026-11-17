@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1100 408" width="1100" height="408" role="img" aria-labelledby="title desc">
+  <title id="title">Daniel Heringer · Linha Noturna</title>
+  <desc id="desc">Cartaz de metrô. Um expresso ciano atravessa uma cidade violeta sob um sol de coral. À esquerda, o letreiro Daniel Heringer.</desc>
+  <defs>
+    <linearGradient id="sky" x2=".86" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#151229"/><stop offset=".52" stop-color="#49305f"/><stop offset="1" stop-color="#e66d83"/></linearGradient>
+    <linearGradient id="sun" x2="0" y2="1"><stop stop-color="#ffdc96"/><stop offset=".48" stop-color="#ffa784"/><stop offset="1" stop-color="#fe6587"/></linearGradient>
+    <linearGradient id="panel"><stop offset=".55" stop-color="#111322"/><stop offset="1" stop-color="#1f1a30"/></linearGradient>
+    <pattern id="lit" width="12" height="11" patternUnits="userSpaceOnUse"><path d="M3 3h4" stroke="#e1a4a7" stroke-width="2" opacity=".48"/></pattern>
+    <pattern id="ribs" width="7" height="7" patternUnits="userSpaceOnUse"><path d="M2 0v7" stroke="#745879" opacity=".55"/></pattern>
+    <pattern id="mesh" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".75" fill="#967f9d" opacity=".33"/></pattern>
+    <pattern id="bridge" width="72" height="24" patternUnits="userSpaceOnUse"><path d="m0 0 36 23L72 0M0 0v24" fill="none" stroke="#574864" stroke-width="3"/></pattern>
+    <clipPath id="city"><path d="M640 0h460v360H425z"/></clipPath>
+    <clipPath id="disc"><circle cx="871" cy="151" r="108"/></clipPath>
+    <g id="car"><path d="M0 0h85l6 5v16H0z" fill="#8eddcf"/><path d="M0 5h85l4 4v4H0z" fill="#20243c"/><path d="M4 6h12m4 0h13m4 0h13m4 0h13m5 0h10" stroke="#ffe5ba" stroke-width="2.8"/><path d="M0 17h90" stroke="#45767e"/><path d="M17 3v16m52-16v16" stroke="#304956"/><path d="M3 22h82" stroke="#100f20" stroke-width="3"/></g>
+    <style>
+      .mono{font-family:ui-monospace,'Liberation Mono',monospace}.name{font-family:'Arial Black','Liberation Sans',Arial,sans-serif;font-weight:900;letter-spacing:-4px}.train{animation:depart 10s linear infinite}.beacon{animation:breathe 4s ease-in-out infinite alternate}.signal{animation:relay 6s ease-in-out infinite}
+      @keyframes depart{from{transform:translateX(0)}to{transform:translateX(-1100px)}}@keyframes breathe{from{opacity:.35}to{opacity:1}}@keyframes relay{0%,10%{transform:translateX(0)}75%,100%{transform:translateX(153px)}}
+      @media(prefers-reduced-motion:reduce){.train,.beacon,.signal{animation:none}}
+    </style>
+  </defs>
+  <rect width="1100" height="408" fill="url(#panel)"/>
+  <g clip-path="url(#city)">
+    <rect x="420" width="680" height="360" fill="url(#sky)"/>
+    <circle cx="871" cy="151" r="118" fill="none" stroke="#f8bd9e" opacity=".23"/>
+    <circle cx="871" cy="151" r="108" fill="url(#sun)"/>
+    <g clip-path="url(#disc)" stroke="#a85c7b"><path d="M750 150h240m-240 8h240m-240 10h240m-240 11h240"/><path d="M750 191h240m-240 13h240m-240 14h240m-240 15h240" stroke-width="3"/></g>
+    <path d="M425 241h65v-28h20v-22h16v10h37v-16h14v-31h6v-11h4v11h6v45h28v-20h25v10h17v-40h17v-26h20v56h22v-37h17v-6h13v54h27v-19h27v9h22v-22h11v-28h19v-5h14v46h18v-27h20v17h23v-38h23v-16h12v55h28v-18h31v-29h22v-23h7v18h8v49h21v-30h40v180H425z" fill="#765570"/>
+    <g fill="#34304e"><path d="M492 320V145h14v-12h40v14h10v173zm72 0V199l12-11h35v132zm68 0V159h8v-11h41v11h7v161zm111 0V97h10V83h17V62h3v21h14v14h7v223zm74 0V205h30v-9h17v124zm62 0V167l13-18h34l8 18v153zm94 0V142h16v-13h28v13h12v178zm69 0V90h14V65h25v25h19v230z"/></g>
+    <path d="M754 100h28v163h-28zm135 69h32v103h-32zm165-76h29v171h-29zm-410 69h30v105h-30z" fill="url(#lit)"/>
+    <g fill="#202137"><path d="M478 306v-93h31v-17h28v110zm85 0V111h10V92h10V76h3v16h11v19h8v195zm57 0v-80l16-16h45v96zm78 0V185l8-8h21v-18h14v18h13v129zm91 0V149h11v-37h5V95h2v17h6v37h11v157zm54 0v-68h11v-12h41v80zm97 0V91l17-23h32l11 13v225zm78 0v-98h9v-21h36v119zm56 0V146h12v-30h19v190z"/></g>
+    <path d="M950 95h42v174h-42zm-381 20h27v159h-27zm134 74h44v86h-44z" fill="url(#ribs)"/>
+    <path d="m944 89 16-20h26m-44 30v60m-369-46v53m228-16h12m-107 35h34" fill="none" stroke="#f7969c" stroke-width="2"/>
+    <path d="M959 128h18v40h-18z" fill="#f59a96"/><text x="968" y="158" font-family="monospace" font-size="13" fill="#282438" text-anchor="middle" transform="rotate(-90 968 147)">DH/01</text>
+    <path d="M435 265 Q698 315 913 258 T1120 243" fill="none" stroke="#292239" stroke-width="2"/>
+    <circle class="beacon" cx="806" cy="94" r="2.5" fill="#ffe3bc"/>
+    <g transform="translate(0 265)"><g class="train">
+      <g id="express"><use xlink:href="#car" x="766"/><use xlink:href="#car" x="860"/><use xlink:href="#car" x="954"/><path d="m766 0-14 4-16 14v3h30" fill="#92e7d8"/><path d="m759 4-10 3-6 6h16z" fill="#35344c"/><path d="m737 16 9-2" stroke="#fff4bd" stroke-width="3"/></g>
+      <use xlink:href="#express" x="1100"/>
+    </g></g>
+    <path d="M425 289h675v71H425z" fill="#191929"/><path d="M425 291h675" stroke="#8be1d3" stroke-width="2"/><path d="M425 296h675v24H425z" fill="url(#bridge)"/>
+    <path d="M425 323h675" stroke="#59445e" stroke-width="3"/><path d="M660 325v35m273-35v35" stroke="#342d43" stroke-width="12"/>
+  </g>
+  <path d="M635 0 420 360" stroke="#f59896" opacity=".7"/>
+  <path d="M609 0 394 360H0V0z" fill="url(#mesh)"/>
+  <g transform="translate(34 30)"><rect width="49" height="26" rx="13" fill="#b7f5de"/><text class="mono" x="24.5" y="18" text-anchor="middle" fill="#141722" font-weight="bold" font-size="15">N1</text><text class="mono" x="64" y="18" fill="#b7f5de" font-size="15" letter-spacing="2">LINHA NOTURNA</text></g>
+  <g fill="#fff2e6" class="name" font-size="78"><text x="30" y="149">DANIEL</text><text x="30" y="220">HERINGER</text></g>
+  <path d="M34 248h54" stroke="#ff9b95" stroke-width="4"/><text class="mono" x="34" y="284" font-size="22" fill="#c7e7df">Produto × Engenharia</text>
+  <text class="mono" x="34" y="335" font-size="12" fill="#b4acbf" letter-spacing="1.6">ARQUIVO PÚBLICO  /  DH.01</text>
+  <rect y="360" width="1100" height="48" fill="#141521"/><path d="M0 360h1100" stroke="#676076"/>
+  <g class="mono" font-size="13" fill="#d8d7da"><text x="34" y="389" letter-spacing="1">EXPRESSO NOTURNO</text><text x="1066" y="389" text-anchor="end" fill="#b7f5de">DESTINO / REPOSITÓRIOS ↓</text></g>
+  <path d="M371 385h102l9-6h123" stroke="#799b9a" stroke-width="2" fill="none"/><g fill="#141521" stroke="#b7f5de" stroke-width="2"><circle cx="371" cy="385" r="4"/><circle cx="492" cy="379" r="4"/><circle cx="605" cy="379" r="4"/></g>
+  <path class="signal" d="M380 372h9" stroke="#ff9b95" stroke-linecap="round" stroke-width="3"/>
+</svg>
